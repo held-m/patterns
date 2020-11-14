@@ -7,12 +7,11 @@ __Creational Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/c-sharp)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python))|
-| [Builder](patterns/creational/builder) | instead of using multiple constructors, builder object receives parameters and returns constructed objects |
-| [factory](patterns/creational/factory.py) | delegate a specialized function/method to create instances |
-| [lazy_evaluation](patterns/creational/lazy_evaluation.py) | lazily-evaluated property pattern in Python |
-| [pool](patterns/creational/pool.py) | preinstantiate and maintain a group of instances of the same type |
-| [prototype](patterns/creational/prototype.py) | use a factory and clones of a prototype for new instances (if instantiation is expensive) |
+| [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/c-sharp)) ([Golang](patterns/creational/abstract-factory/golang)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python))|
+| [Builder](patterns/creational/builder) | ([Description](patterns/creational/builder)) |
+| [Factory Method](patterns/creational/factory-method) | ([Description](patterns/creational/factory-method)) |
+| [Pool](patterns/creational/pool) | ([Description](patterns/creational/pool))|
+| [Prototype](patterns/creational/prototype) | ([Description](patterns/creational/prototype)) |
 
 __Structural Patterns__:
 
