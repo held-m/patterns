@@ -7,7 +7,7 @@ __Creational Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [abstract_factory](patterns/creational/abstract_factory.py) | use a generic function with specific factories |
+| [abstract factory](patterns/creational/abstract_factory.py) | use a generic function with specific factories |
 | [borg](patterns/creational/borg.py) | a singleton with shared-state among instances |
 | [builder](patterns/creational/builder.py) | instead of using multiple constructors, builder object receives parameters and returns constructed objects |
 | [factory](patterns/creational/factory.py) | delegate a specialized function/method to create instances |
