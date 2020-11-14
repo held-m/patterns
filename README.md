@@ -57,6 +57,12 @@ __Fundamental Patterns__:
 |:-------:| ----------- |
 | [Delegation Pattern](patterns/fundamental/delegation-pattern) | |
 
+__Database Patterns__
+| Pattern | Description |
+|:-------:| ----------- |
+| [Data Mapper](patterns/fundamental/data-mapper) | |
+| [Domain Object Factory](patterns/fundamental/domain-object-factory) | |
+
 __Others__:
 
 | Pattern | Description |
