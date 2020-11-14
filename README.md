@@ -7,9 +7,8 @@ __Creational Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [Abstract Factory](patterns/creational/abstract-factory) | ([information](patterns/creational/abstract-factory)) ([php](patterns/creational/abstract-factory/php)) ([python](patterns/creational/abstract-factory/python))|
-| [borg](patterns/creational/borg.py) | a singleton with shared-state among instances |
-| [builder](patterns/creational/builder.py) | instead of using multiple constructors, builder object receives parameters and returns constructed objects |
+| [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/c-sharp)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python))|
+| [Builder](patterns/creational/builder) | instead of using multiple constructors, builder object receives parameters and returns constructed objects |
 | [factory](patterns/creational/factory.py) | delegate a specialized function/method to create instances |
 | [lazy_evaluation](patterns/creational/lazy_evaluation.py) | lazily-evaluated property pattern in Python |
 | [pool](patterns/creational/pool.py) | preinstantiate and maintain a group of instances of the same type |
