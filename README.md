@@ -8,25 +8,22 @@ __Creational Patterns__:
 | Pattern | Description |
 |:-------:| ----------- |
 | [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/c-sharp)) ([Golang](patterns/creational/abstract-factory/golang)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python)) ([Swift](patterns/creational/abstract-factory/swift))|
-| [Builder](patterns/creational/builder) | ([Description](patterns/creational/builder)) |
-| [Factory Method](patterns/creational/factory-method) | ([Description](patterns/creational/factory-method)) |
-| [Pool](patterns/creational/pool) | ([Description](patterns/creational/pool))|
-| [Prototype](patterns/creational/prototype) | ([Description](patterns/creational/prototype)) |
+| [Builder](patterns/creational/builder) | |
+| [Factory Method](patterns/creational/factory-method) |  |
+| [Pool](patterns/creational/pool) | |
+| [Prototype](patterns/creational/prototype) | |
 
 __Structural Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [3-tier](patterns/structural/3-tier.py) | data<->business logic<->presentation separation (strict relationships) |
-| [adapter](patterns/structural/adapter.py) | adapt one interface to another using a white-list |
-| [bridge](patterns/structural/bridge.py) | a client-provider middleman to soften interface changes |
-| [composite](patterns/structural/composite.py) | lets clients treat individual objects and compositions uniformly |
-| [decorator](patterns/structural/decorator.py) | wrap functionality with other functionality in order to affect outputs |
-| [facade](patterns/structural/facade.py) | use one class as an API to a number of others |
-| [flyweight](patterns/structural/flyweight.py) | transparently reuse existing instances of objects with similar/identical state |
-| [front_controller](patterns/structural/front_controller.py) | single handler requests coming to the application |
-| [mvc](patterns/structural/mvc.py) | model<->view<->controller (non-strict relationships) |
-| [proxy](patterns/structural/proxy.py) | an object funnels operations to something else |
+| [Adapter](patterns/structural/adapter) | adapt one interface to another using a white-list |
+| [Bridge](patterns/structural/bridge) | a client-provider middleman to soften interface changes |
+| [Composite](patterns/structural/composite) | lets clients treat individual objects and compositions uniformly |
+| [Decorator](patterns/structural/decorator) | wrap functionality with other functionality in order to affect outputs |
+| [Facade](patterns/structural/facade) | use one class as an API to a number of others |
+| [MVC](patterns/structural/mvc) | model<->view<->controller (non-strict relationships) |
+| [Proxy](patterns/structural/proxy) | an object funnels operations to something else |
 
 __Behavioral Patterns__:
 
