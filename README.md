@@ -7,7 +7,7 @@ __Creational Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/c-sharp)) ([Golang](patterns/creational/abstract-factory/golang)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python)) ([Swift](patterns/creational/abstract-factory/swift))|
+| [Abstract Factory](patterns/creational/abstract-factory) | ([Description](patterns/creational/abstract-factory)) ([C++](patterns/creational/abstract-factory/c-plus)) ([C#](patterns/creational/abstract-factory/C%23)) ([Golang](patterns/creational/abstract-factory/golang)) ([Java](patterns/creational/abstract-factory/java)) ([JS](patterns/creational/abstract-factory/js)) ([PHP](patterns/creational/abstract-factory/php)) ([Python](patterns/creational/abstract-factory/python)) ([Swift](patterns/creational/abstract-factory/swift))|
 | [Builder](patterns/creational/builder) | |
 | [Factory Method](patterns/creational/factory-method) |  |
 | [Pool](patterns/creational/pool) | |
