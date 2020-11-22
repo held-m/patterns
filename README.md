@@ -3,6 +3,8 @@ Patterns
 
 A collection of design patterns.
 
+[UML explanation](https://github.com/held-m/patterns/wiki/UML)
+
 __Creational Patterns__:
 
 | Pattern | Description |
